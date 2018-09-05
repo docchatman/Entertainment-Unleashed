@@ -1,2 +1,2 @@
-# Entertainment-Unleashed
+# EntertainmentUnleashed
 Entertainment Unleashed Repository
